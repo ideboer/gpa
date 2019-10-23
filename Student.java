@@ -41,7 +41,7 @@ public class Student {
 
     // calculate gpa
     public double calculateGPA() {
-        return (mathScore + englishScore + csScore ) / 3;
+        return  ;
     }
 
 
